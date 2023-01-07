@@ -3,7 +3,7 @@ import json
 import os
 
 os.system("title open ai chat bypass")
-
+os.system("cls")
 with open("config/config.json") as f:
     config = json.load(f)
 
